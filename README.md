@@ -2,7 +2,7 @@
 
 ### Visual & Product Designer (engineer?) | Information Science @ Cornell University
 
-I’m a designer obsessed with the intersection of **UX, Fine Arts, and AI**. Currently finishing up my final year at Cornell and preparing to start as an **Associate Designer** this August. I love "vibing" in the codebase using **Cursor** and **Figma** to bring high-fidelity prototypes to life.
+I’m a designer obsessed with the ever evolving human<>machine relationship. Currently finishing up my final year at Cornell and preparing to start as an **Associate Designer** this August. I revently love builidng with **Cursor** and **Figma** to bring high-fidelity prototypes to life.
 
 
 
