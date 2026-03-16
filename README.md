@@ -25,4 +25,3 @@ I’m a designer obsessed with the ever evolving human<>machine relationship. Cu
 
 ### 👋 say hi!
 -  [LinkedIn](YOUR_LINKEDIN_URL_HERE)
--  [Portfolio](YOUR_PORTFOLIO_URL_HERE)
